@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+"tag": "greeting",
+"patterns": ["Hi?", "Hey", "How are you","hi there","hello"],
+"responses": ["Hello", "hi,what i can help u","hii how are you"]
+},
+     {
+"tag": "college",
+"patterns": ["college name","about college","what is the name of college","can you tell me college name"],
+"responses": ["SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering,Chandwad"]
+},
+
+      {
+"tag": "department",
+"patterns": ["Deparment name","streams","fields","how many department are in college","count of department name","available department"],
+"responses": ["There are total six deparments in our college including Computer , Mechanical, Civil , E & TC , AIDS , MBA etc."]
+},
+      {
+"tag": "college",
+"patterns": ["Vision and Mission of college","what is the vision and mission of college","can you tell me vision and mision"],
+"responses": ["Vision of Our college is Transform young aspirant learners towards creativity and professionalism for societal growth through quality technical education.  and Mission is To share values, ideas, beliefs by encouraging faculties and students for welfare of society."]
+},
+      {
+"tag": "college",
+"patterns": ["established year of college","when college was started","in which year college is established"],
+"responses": ["2003"]
+},
+      {
+"tag": "college",
+"patterns": ["who is principal of college","principal name of college","principal"],
+"responses": ["Dr.M.D.Kokate is Principal of SNJB's KBJ College of Engineering Chandwad"]
+},
+      {
+"tag": "library",
+"patterns": ["library information","can i get some information about library"],
+"responses": ["We have an excellent, attractive and pleasant ambiance library in the college. Library is located at first floor & Second floor of college building, having total area of 490 sq. mtr."]
+},
+      {
+"tag": "Placement",
+"patterns": ["placement information of 2021 and 2022","about placement","can i get some information about placement"],
+"responses": ["in 2021 22 placement count was 38 candidates from computer department, in 2020 21 placement count was 48 cag"]
+},
+       {
+"tag": "colege",
+"patterns": ["who is vice principal","name of the vice principal","tell me about vice principal"],
+"responses": ["Sanghavi Sir is vice principle of SNJB's KBJ College of Engineering Chandwad"]
+},
+       {
+"tag": "computer",
+"patterns": ["how many labs in computer department","Number of labs in computer department","count of computer depatment lab"],
+"responses": ["Total 12 Labs are available in computer department"]
+}
+  ]
+}

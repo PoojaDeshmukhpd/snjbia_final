@@ -1,0 +1,120 @@
+{
+  "intents": [
+    {
+        "tag": "department",
+        "pattern": ["vision of computer department","vision computer department"],
+        "response": ["To empower young generations for significant contribution in the field of computer engineering through excellence in knowledge, technical education and innovation to cater the industrial demands and societal needs."],
+        "link": null
+    },
+    {
+        "tag": "department",
+        "pattern": ["mission of computer department","mission computer department"],
+        "response": ["1. To achieve academic excellence by inculcating basic and latest knowledge in which new idea flourish.  2. To undertake collaborative training which offer opportunities for long term interaction with academia and industry."],
+        "link": null
+    },
+    {
+        "tag": "department",
+        "pattern": ["Number of labs","count of labs","total labs in computer department"],
+        "response": ["12"],
+        "link": null
+    },
+    {
+        "tag": "department",
+        "pattern": ["Operating System Lab","OSL","os lab"],
+        "response": ["Operating System: Windows 7,Programming tools: Arduino IDE"],
+        "link": "http://www.snjb.org/engineering/Computer_engineering/computer_engineering_laboratories"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Area of Operating System Lab, os lab(OSL)"],
+        "response": "Area of Lab:. 66 Sq.m.",
+        "link": "http://www.snjb.org/engineering/images/department/Operating_System_Lab.png"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Lab Incharge of operation system lab, os lab"],
+        "response": [" Prof. P. N. Achaliya"],
+        "link": "http://www.snjb.org/engineering/images/department/Operating_System_Lab.png"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Software Laboratory"],
+        "response": ["Programming Tools Anaconda Navigator,Python,Cisco Packet Tracer, Wireshark, Browsers: Mozilla Firefox], Google Chrome, "],
+        "link": "http://www.snjb.org/engineering/Computer_engineering/computer_engineering_laboratoriess"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Area of Software Laboratory , sl lab"],
+        "response": "68 Sqm",
+        "link": "http://www.snjb.org/engineering/images/department/LRM_EXPORT_20180820_211245imgFile5b7fbfc2b0165_thumb.jpg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Lab Incharge SL Lab"],
+        "response": ["Prof. S. B. Ambhore"],
+        "link": "http://www.snjb.org/engineering/images/department/LRM_EXPORT_20180820_211245imgFile5b7fbfc2b0165_thumb.jpg"
+    },
+
+    {
+        "tag": "department",
+        "pattern": ["Area of Networking Laboratory , CNL"],
+        "response": "69 Sqm",
+        "link": "http://www.snjb.org/engineering/images/department/c2_thumb.jpg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Lab Incharge Networking lab, CNL"],
+        "response": ["Prof. G. P. Dhomse"],
+        "link": "http://www.snjb.org/engineering/images/department/c2_thumb.jpg"
+    },
+
+    {
+        "tag": "department",
+        "pattern": ["Area of CGL , Area of Computer graphics lab"],
+        "response":[ "176.5 sq. m. (Combined Project Lab + GC Lab)"],
+        "link": "http://www.snjb.org/engineering/images/department/Comp_Lab_CGL_thumb.jpg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Lab In-charge of computer graphics lab, CGL "],
+        "response": ["Prof. N. P. Bora"],
+        "link": "http://www.snjb.org/engineering/images/department/Comp_Lab_CGL_thumb.jpgg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Computer Science Laboratory"],
+        "response": ["Programming Tools Anaconda Navigator,Python,Cisco Packet Tracer, Wireshark"],
+        "link": "http://www.snjb.org/engineering/images/department/Comp_CSL_Lab_thumb.jpg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["Area of computer science Laboratory, CSL lab "],
+        "response": ["95.14 Sqm"],
+        "link": "http://www.snjb.org/engineering/images/department/Comp_CSL_Lab_thumb.jpg"
+    },
+    {
+        "tag": "department",
+        "pattern": ["result of computer deapartment"],
+        "response": [],
+        "link": "http://www.snjb.org/engineering/Computer_engineering/computer_engineering_results"
+    },
+    {
+        "tag": "department",
+        "pattern": ["toppers of compueter"],
+        "response": [],
+        "link": "http://www.snjb.org/engineering/Computer_engineering/computer_engineering_placements_statistics"
+    },
+    {
+        "tag": "department",
+        "pattern": ["placement of 2022 computer department"],
+        "response": ["53 placement in 2022, 279 in last 5 years"],
+        "link": "http://www.snjb.org/engineering/images/department/Update_Placement_Summery_Computer_Per.png"
+    },
+    {
+        "tag": "department",
+        "pattern": ["total number "],
+        "response": [],
+        "link": null
+    }
+]
+}
